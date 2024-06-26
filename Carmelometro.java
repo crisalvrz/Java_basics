@@ -1,3 +1,5 @@
+//calculadora del área de mi perro y de cuánta comida puede comer.
+
 package calculadoraMasa;
 
 import java.util.Scanner;
